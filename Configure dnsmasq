@@ -1,0 +1,1 @@
+sudo nano /etc//dnsmasq.conf Add tracker domains to block: address=/ tracker-domain.com/0.0.0.0 address=/another-tracker.com/0.0.0.0
